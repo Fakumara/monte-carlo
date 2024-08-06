@@ -101,11 +101,6 @@ def main():
             st.sidebar.success("Rentang waktu valid. ✅")
 
         unique_permintaan = get_unique_permintaan_by_material(selected_material, connection)
-        col1, col2= st.columns([3,3])
-        with col1:
-            st.image('Logo_KAI_Commuter.png')
-        with col2:
-            st.image('BUMN.png')
         st.markdown("<h1 style='text-align: center; color: #0093AD;'>Sistem Pendukung Keputusan Pengendalian Persediaan Suku Cadang (SPKPP)</h1>", unsafe_allow_html=True)
 
     with st.container():
