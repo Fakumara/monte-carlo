@@ -9,8 +9,8 @@ This project is the result of the final assignment design of an Industrial Engin
 This project is freely developed with the db_simulasi.sql dataset so that it becomes a reference in working on projects for the wider community or students 😄
 
 HOW TO USE
--Create DB Local using MYSQL Standalone or XAMPP
--Import db_simulasi.sql
--Create Env python using CMD or Anaconda Prompt
--Install library using requieremnts.txt (Sorry for so many library, i forgot which one that is no use for the project.. 😥)
--Voila! now you can run the Monte Carlo. Enjoy!🍻
+ - Create DB Local using MYSQL Standalone or XAMPP
+ - Import db_simulasi.sql
+ - Create Env python using CMD or Anaconda Prompt
+ - Install library using requieremnts.txt (Sorry for so many library, i forgot which one that is no use for the project.. 😥)
+ - Voila! now you can run the Monte Carlo. Enjoy!🍻
